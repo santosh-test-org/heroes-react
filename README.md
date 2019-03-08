@@ -1,5 +1,7 @@
 # Tour of Heroes
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/johnpapa/heroes-react.svg)](https://greenkeeper.io/)
+
 This project was created to help represent a fundamental app written with React. The heroes and villains theme is used throughout the app.
 
 by [John Papa](http://twitter.com/john_papa)
